@@ -25,6 +25,6 @@ public class Main {
         shop.sortByCost();
         System.out.println("Отсортировать:");
         shop.showList();
-        
+
     }
 }
